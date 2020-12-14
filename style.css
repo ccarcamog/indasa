@@ -1126,3 +1126,6 @@ li {
     font-size: 18px;
     color: #959595 !important;
 }
+.invert-color {
+    filter: invert(100%);
+}
