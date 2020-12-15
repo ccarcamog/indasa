@@ -124,23 +124,13 @@
 								<p>Planes de pago que se adaptan a cualquier presupuesto, y a cualquier tipo de empresa. Trabajamos bajo sus condiciones</p>
 							</div>
 						</div>
-						<!-- Single Feature -->
-						<!-- <div class="col-12 col">
-							<div class="fplus-single-feature wow fadeInUp" data-wow-delay="2s">
-								<div class="feature-title d-flex align-items-center">
-									<img src="img/icons/switching-user.svg" alt="">
-									<h5>Soporte contínuo</h5>
-								</div>
-								<p>Nuestro equipo está preparado para atender las necesidades más puntuales. Nuestro servicio fideliza a nuestro clientes</p>
-							</div>
-						</div> -->
 					</div>
 				</div>
 			</div>
 			<ol class="carousel-indicators" style="position: relative; top:20px">
-				<li data-target="#carouselCaracteristicas" data-slide-to="0" class="svg-invert active"></li>
-				<li data-target="#carouselCaracteristicas" data-slide-to="1" class="svg-invert "></li>
-				<li data-target="#carouselCaracteristicas" data-slide-to="2" class="svg-invert "></li>
+				<li data-target="#carouselCaracteristicas" data-slide-to="0" class="invert-color active"></li>
+				<li data-target="#carouselCaracteristicas" data-slide-to="1" class="invert-color "></li>
+				<li data-target="#carouselCaracteristicas" data-slide-to="2" class="invert-color "></li>
 			</ol>
 
 		</div>

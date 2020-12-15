@@ -11,7 +11,7 @@
 </head>
 
 <body>
-	<?php // include "componentes/quienes-somos.php" ?>
+	<?php include "componentes/servicios.php" ?>
 
 	<!-- Jquery-2.2.4 js -->
 	<script src="js/jquery/jquery.min.js"></script>
