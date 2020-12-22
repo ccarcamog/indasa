@@ -11,7 +11,7 @@
 </head>
 
 <body>
-	<?php include "componentes/clientes.php" ?>
+	<?php include "componentes/contacto.php" ?>
 
 
 	<!-- Jquery-2.2.4 js -->
