@@ -16,12 +16,12 @@
 			<div class="row no-gutters align-items-center">
 				<div class="col-12 col-md-6">
 					<div class="about-us-thumb wow fadeIn" data-wow-delay="1s">
-						<img src="img/placeholder.jpg" alt="" style="width:100%; height:100%; object-fit:cover">
+						<img src="img/grupo-aider/pexels-singkham-1108572.jpg" alt="" style="width:100%; height:100%; object-fit:cover">
 					</div>
 				</div>
 				<div class="col-12 col-md-6">
 					<div class="about-us-text wow fadeIn" data-wow-delay="1.5s">
-						<h4>Somos Indasa</h4>
+						<h4>Somos Grupo AIDER</h4>
 						<p>Favor redactar información de Acerca de y una breve historia. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce enim nulla, mollis eu metus in, sagittis fringilla tortor. Phasellus eget purus id felis dignissim convallis. Suspendisse et augue dui. Morbi gravida sed justo vel venenatis. Ut tempor pretium maximus. Donec libero diam, faucibus vitae lectus nec, accumsan gravida dui. Nam interdum mi eget lacus aliquet, sit amet ultricies.</p>
 					</div>
 				</div>
@@ -43,7 +43,7 @@
 									<img src="img/icons/wallet.svg" alt="">
 									<h5>Calidad garantizada</h5>
 								</div>
-								<p>Todos nuestros servicios cumplen con normas y estándares de calidad que garitizan la satisfacción de nuestro clientes</p>
+								<p>Mauris luctus lacus at consectetur commodo. Donec felis odio, hendrerit vitae laoreet vel, commodo ac eros. Morbi nec ornare tortor.</p>
 							</div>
 						</div>
 						<!-- Single Feature -->
@@ -53,7 +53,7 @@
 									<img src="img/icons/credit-card.svg" alt="">
 									<h5>Precios razonables</h5>
 								</div>
-								<p>Planes de pago que se adaptan a cualquier presupuesto, y a cualquier tipo de empresa. Trabajamos bajo sus condiciones</p>
+								<p>Nullam imperdiet lacinia mollis. Nunc vitae odio egestas, volutpat nisi eu, eleifend nisi. Suspendisse lectus nibh, vestibulum at ante at, blandit convallis leo. </p>
 							</div>
 						</div>
 						<!-- Single Feature -->
@@ -63,7 +63,7 @@
 									<img src="img/icons/switching-user.svg" alt="">
 									<h5>Soporte contínuo</h5>
 								</div>
-								<p>Nuestro equipo está preparado para atender las necesidades más puntuales. Nuestro servicio fideliza a nuestro clientes</p>
+								<p>Maecenas elementum massa nec sem condimentum, sit amet euismod nunc pulvinar. Nam volutpat, dui quis dictum euismod, nibh diam lobortis lacus, sed tristique libero quam ac arcu. </p>
 							</div>
 						</div>
 					</div>
@@ -77,7 +77,7 @@
 									<img src="img/icons/wallet.svg" alt="">
 									<h5>Calidad garantizada</h5>
 								</div>
-								<p>Todos nuestros servicios cumplen con normas y estándares de calidad que garitizan la satisfacción de nuestro clientes</p>
+								<p>Cras fringilla pretium orci nec pretium. Sed imperdiet commodo orci, vitae ullamcorper nulla suscipit sodales.</p>
 							</div>
 						</div>
 						<!-- Single Feature -->
@@ -87,7 +87,7 @@
 									<img src="img/icons/credit-card.svg" alt="">
 									<h5>Precios razonables</h5>
 								</div>
-								<p>Planes de pago que se adaptan a cualquier presupuesto, y a cualquier tipo de empresa. Trabajamos bajo sus condiciones</p>
+								<p>Curabitur et nisl et odio iaculis scelerisque. In luctus feugiat enim vel feugiat. Vivamus justo sapien, pharetra a felis eu, tempor aliquam nunc. </p>
 							</div>
 						</div>
 						<!-- Single Feature -->
@@ -97,7 +97,7 @@
 									<img src="img/icons/switching-user.svg" alt="">
 									<h5>Soporte contínuo</h5>
 								</div>
-								<p>Nuestro equipo está preparado para atender las necesidades más puntuales. Nuestro servicio fideliza a nuestro clientes</p>
+								<p>Proin tincidunt tellus vitae placerat suscipit. Vivamus auctor turpis eget diam vulputate, quis finibus odio rutrum.</p>
 							</div>
 						</div>
 					</div>
@@ -111,7 +111,7 @@
 									<img src="img/icons/wallet.svg" alt="">
 									<h5>Calidad garantizada</h5>
 								</div>
-								<p>Todos nuestros servicios cumplen con normas y estándares de calidad que garitizan la satisfacción de nuestro clientes</p>
+								<p>Phasellus rutrum mi eu nisl sodales efficitur. In hac habitasse platea dictumst. Quisque tempor eget mi luctus consectetur. Interdum et malesuada fames ac ante ipsum primis in faucibus.</p>
 							</div>
 						</div>
 						<!-- Single Feature -->
@@ -121,7 +121,7 @@
 									<img src="img/icons/credit-card.svg" alt="">
 									<h5>Precios razonables</h5>
 								</div>
-								<p>Planes de pago que se adaptan a cualquier presupuesto, y a cualquier tipo de empresa. Trabajamos bajo sus condiciones</p>
+								<p> Donec at sem tellus. Aenean id risus neque. Ut in iaculis diam. Phasellus vitae nisl sed sem accumsan vehicula vel sit amet orci.</p>
 							</div>
 						</div>
 					</div>

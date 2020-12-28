@@ -11,6 +11,15 @@
 </head>
 
 <body>
+	<?php 
+		include "componentes/header.php";
+		include "componentes/quienes-somos.php";
+		include "componentes/clientes.php";
+		include "componentes/marcas.php";
+		include "componentes/servicios.php";
+		include "componentes/galeria.php";
+	?>
+	
 	<?php include "componentes/contacto.php" ?>
 
 
