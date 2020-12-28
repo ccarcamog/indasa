@@ -625,7 +625,7 @@ li {
 
 .fplus-portfolio {
     margin-left: -15px;
-    margin-right: -15px;
+    margin-right: -15px;  
 }
 
 .fplus-portfolio .single_gallery_item {
@@ -638,6 +638,9 @@ li {
 .fplus-portfolio .single_gallery_item img {
     -webkit-transition-duration: 500ms;
     transition-duration: 500ms;
+    width:100%;
+    height:300px;
+    object-fit: scale-down;
 }
 
 .gallery-hover-overlay {
