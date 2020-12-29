@@ -3,7 +3,7 @@
 	<div class="row">
 		<div class="col-12">
 			<div class="section-heading text-center">
-				<h4>Calería</h4>
+				<h4>Galería</h4>
 				<div class="section-heading-line"></div>
 			</div>
 		</div>
