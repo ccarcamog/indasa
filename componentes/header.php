@@ -79,11 +79,16 @@
  </div>
  <!-- ****** Menu Area End ****** -->
  <!-- ****** Welcome Area Start ****** -->
- <section class="fplus-hero-area" style="background-image: url(img/grupo-aider/48391103_2254206858190052_8661006010007158784_o.jpg); background-position:center bottom;" id="home">
+ <section class="fplus-hero-area" style="background-image: url(img/grupo-aider/galeria/galeria-1.jpg); background-position:center bottom;" id="home">
+ 	<div class="hero-container">
+ 	</div>
  	<div class="hero-content-area d-flex justify-content-end">
  		<div class="hero-text">
  			<h2>Grupo Aider, energias renovables</h2>
  		</div>
+ 	</div>
+ 	<div class="hero-logo-area d-flex justify-content-end">
+ 		<img src="img/Grupo-AIDER-Logo.png" alt="">
  	</div>
  </section>
  <!-- ****** Welcome Area End ****** -->
