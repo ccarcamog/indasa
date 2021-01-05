@@ -1208,9 +1208,3 @@ li {
 .invert-color {
     filter: invert(100%);
 }
-.slider-gallery{
-    background-color:#f9f9f9;
-    margin:0 !important;
-    text-align:center;
-    width:100vw;
-}
