@@ -88,7 +88,7 @@
  		</div>
  	</div>
  	<div class="hero-logo-area d-flex justify-content-end">
- 		<img src="img/Grupo-AIDER-Logo.png" alt="">
+ 		<img src="img/svg/LOGO GR AIDER.svg" alt="">
  	</div>
  </section>
  <!-- ****** Welcome Area End ****** -->

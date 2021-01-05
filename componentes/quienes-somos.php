@@ -21,7 +21,30 @@
 				</div>
 				<div class="col-12 col-md-6">
 					<div class="about-us-text wow fadeIn" data-wow-delay="1.5s">
-						<h4>Somos Grupo AIDER</h4>
+						<!-- <h4>Somos Grupo AIDER</h4> -->
+						<p>Favor redactar información de Acerca de y una breve historia. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce enim nulla, mollis eu metus in, sagittis fringilla tortor. Phasellus eget purus id felis dignissim convallis. Suspendisse et augue dui. Morbi gravida sed justo vel venenatis. Ut tempor pretium maximus. Donec libero diam, faucibus vitae lectus nec, accumsan gravida dui. Nam interdum mi eget lacus aliquet, sit amet ultricies.</p>
+					</div>
+				</div>
+			</div>
+
+		</div>
+	</div>
+	<div class="container mt-3">
+		<div class="about-us-content wow fadeInLeftBig" data-wow-delay="0.5">
+			<div class="row no-gutters align-items-center">
+				<div class="col-12 col-md-6 mt-3">
+					<div class="about-us-text wow fadeIn" data-wow-delay="1.5s">
+
+						<h4 class="text-center">Misión</h4>
+						<div class="section-heading-line"></div>
+
+						<p>Favor redactar información de Acerca de y una breve historia. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce enim nulla, mollis eu metus in, sagittis fringilla tortor. Phasellus eget purus id felis dignissim convallis. Suspendisse et augue dui. Morbi gravida sed justo vel venenatis. Ut tempor pretium maximus. Donec libero diam, faucibus vitae lectus nec, accumsan gravida dui. Nam interdum mi eget lacus aliquet, sit amet ultricies.</p>
+					</div>
+				</div>
+				<div class="col-12 col-md-6 mt-3">
+					<div class="about-us-text wow fadeIn" data-wow-delay="1.5s">
+					<h4 class="text-center">Visión</h4>
+						<div class="section-heading-line"></div>
 						<p>Favor redactar información de Acerca de y una breve historia. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce enim nulla, mollis eu metus in, sagittis fringilla tortor. Phasellus eget purus id felis dignissim convallis. Suspendisse et augue dui. Morbi gravida sed justo vel venenatis. Ut tempor pretium maximus. Donec libero diam, faucibus vitae lectus nec, accumsan gravida dui. Nam interdum mi eget lacus aliquet, sit amet ultricies.</p>
 					</div>
 				</div>

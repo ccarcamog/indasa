@@ -1,4 +1,4 @@
-<section class="fplus-contact-area bg-gray mt-5" id="contact">
+<section class="fplus-contact-area bg-gray" id="contact">
         <div class="container">
             <div class="row">
                 <div class="col-12">

@@ -1,4 +1,4 @@
-<section class="fplus-projects-area bg-gray section-padding-0-120 mt-5" id="brands">
+<section class="fplus-projects-area bg-gray section-padding-0-120" id="brands">
 	<div class="container">
 		<div class="row">
 			<div class="col-12">
