@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
 
@@ -215,9 +214,11 @@
                     <div class="gallery-hover-overlay d-flex justify-content-between">
                         <div class="port-more-view">
                         </div>
-                        <div class="port-hover-text">
-                            <h3>Grupo AIDER</h3>
-                        </div>
+                        <a href="/component-show.php">
+                            <div class="port-hover-text">
+                                <h3>Grupo AIDER</h3>
+                            </div>
+                        </a>
                     </div>
                 </div>
                 <!-- Single gallery Item Start -->
@@ -269,7 +270,7 @@
                     </div>
                 </div>-->
             </div>
-<!--
+            <!--
             <div class="row">
                 <div class="col-12">
                     <a href="#" class="load-more-btn text-center d-block mt-50"><i class="fa fa-plus" aria-hidden="true"></i> Load More</a>
@@ -528,7 +529,24 @@
             </div>
         </div>
         <!-- Google Maps -->
-        <div class="mapouter"><div class="gmap_canvas"><iframe id="gmap_canvas" style ="height:600px;width:100%;" src="https://maps.google.com/maps?q=redondel%20masferrer&t=&z=15&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe></div><style>.mapouter{position:relative;text-align:right;height:600px;width:100%;}.gmap_canvas {overflow:hidden;background:none!important;height:600px;width:100%;}</style></div>
+        <div class="mapouter">
+            <div class="gmap_canvas"><iframe id="gmap_canvas" style="height:600px;width:100%;" src="https://maps.google.com/maps?q=redondel%20masferrer&t=&z=15&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe></div>
+            <style>
+                .mapouter {
+                    position: relative;
+                    text-align: right;
+                    height: 600px;
+                    width: 100%;
+                }
+
+                .gmap_canvas {
+                    overflow: hidden;
+                    background: none !important;
+                    height: 600px;
+                    width: 100%;
+                }
+            </style>
+        </div>
     </section>
     <!-- ****** Contact Area End ****** -->
 
@@ -558,7 +576,7 @@
                     </div>
                 </div>
                 <div class="col-12 col-md-3">
-                   
+
                     <div class="footer-social-widget">
                         <a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a>
                         <a href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a>
@@ -566,11 +584,14 @@
                 </div>
             </div>
             <div class="row pt-5">
-                <div class="col-md-12 text-center text-white"><small><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. 
+                <div class="col-md-12 text-center text-white"><small>
+                        <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. 
 Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | Made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a> &amp; distributed by <a href="https://themewagon.com" target="_blank">ThemeWagon</a>
 <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | INDASA SA de CV
-</small></div>
+                        Copyright &copy;<script>
+                            document.write(new Date().getFullYear());
+                        </script> All rights reserved | INDASA SA de CV
+                    </small></div>
             </div>
         </div>
     </footer>
