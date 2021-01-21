@@ -209,18 +209,18 @@
                     </div>
                 </div>
                 <!-- Single gallery Item Start -->
-                <div class="col-12 col-sm-6 col-md-3 single_gallery_item branding wow fadeInUp" data-wow-delay="0.4s">
-                    <img src="img/Grupo-AIDER-Logo.png" alt="">
-                    <div class="gallery-hover-overlay d-flex justify-content-between">
-                        <div class="port-more-view">
-                        </div>
-                        <a href="/component-show.php">
+                <a href="/component-show.php">
+                    <div class="col-12 col-sm-6 col-md-3 single_gallery_item branding wow fadeInUp" data-wow-delay="0.4s">
+                        <img src="img/Grupo-AIDER-Logo.png" alt="">
+                        <div class="gallery-hover-overlay d-flex justify-content-between">
+                            <div class="port-more-view">
+                            </div>
                             <div class="port-hover-text">
                                 <h3>Grupo AIDER</h3>
                             </div>
-                        </a>
+                        </div>
                     </div>
-                </div>
+                </a>
                 <!-- Single gallery Item Start -->
                 <div class="col-12 col-sm-6 col-md-3 single_gallery_item design wow fadeInUp" data-wow-delay="0.6s">
                     <img src="img/seman_logo.jpeg" alt="">
