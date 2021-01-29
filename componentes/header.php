@@ -79,7 +79,63 @@
  </div>
  <!-- ****** Menu Area End ****** -->
  <!-- ****** Welcome Area Start ****** -->
- <section class="fplus-hero-area" style="background-image: url(img/grupo-aider/galeria/galeria-1.jpg); background-position:center bottom;" id="home">
+
+ <div id="jumboCarousel" class="carousel slide carousel-fade" data-ride="carousel">
+ 	<div class="carousel-inner">
+ 		<div class="carousel-item active">
+ 			<section class="fplus-hero-area" style="background-image: url(img/grupo-aider/galeria/galeria-1.jpg); background-position:center bottom;" id="home">
+ 				<div class="hero-container">
+ 				</div>
+ 				<div class="hero-content-area d-flex justify-content-end">
+ 					<div class="hero-text">
+ 						<h2>Grupo Aider, energias renovables</h2>
+ 					</div>
+ 				</div>
+ 				<div class="hero-logo-area d-flex justify-content-end">
+ 					<img src="img/svg/LOGO GR AIDER.svg" alt="">
+ 				</div>
+ 			</section>
+ 		</div>
+ 		<div class="carousel-item">
+ 			<section class="fplus-hero-area" style="background-image: url(img/grupo-aider/galeria/galeria-2.jpg); background-position:center bottom;" id="home">
+ 				<div class="hero-container">
+ 				</div>
+ 				<div class="hero-content-area d-flex justify-content-end">
+ 					<div class="hero-text">
+ 						<h2>Grupo Aider, energias renovables</h2>
+ 					</div>
+ 				</div>
+ 				<div class="hero-logo-area d-flex justify-content-end">
+ 					<img src="img/svg/LOGO GR AIDER.svg" alt="">
+ 				</div>
+ 			</section>
+ 		</div>
+ 		<div class="carousel-item">
+ 			<section class="fplus-hero-area" style="background-image: url(img/grupo-aider/galeria/galeria-6.jpg); background-position:center bottom;" id="home">
+ 				<div class="hero-container">
+ 				</div>
+ 				<div class="hero-content-area d-flex justify-content-end">
+ 					<div class="hero-text">
+ 						<h2>Grupo Aider, energias renovables</h2>
+ 					</div>
+ 				</div>
+ 				<div class="hero-logo-area d-flex justify-content-end">
+ 					<img src="img/svg/LOGO GR AIDER.svg" alt="">
+ 				</div>
+ 			</section>
+ 		</div>
+ 	</div>
+ 	<a class="carousel-control-prev" href="#jumboCarousel" role="button" data-slide="prev">
+ 		<span class="carousel-control-prev-icon" aria-hidden="true"></span>
+ 		<span class="sr-only">Previous</span>
+ 	</a>
+ 	<a class="carousel-control-next" href="#jumboCarousel" role="button" data-slide="next">
+ 		<span class="carousel-control-next-icon" aria-hidden="true"></span>
+ 		<span class="sr-only">Next</span>
+ 	</a>
+ </div>
+
+ <!-- <section class="fplus-hero-area" style="background-image: url(img/grupo-aider/galeria/galeria-1.jpg); background-position:center bottom;" id="home">
  	<div class="hero-container">
  	</div>
  	<div class="hero-content-area d-flex justify-content-end">
@@ -90,5 +146,5 @@
  	<div class="hero-logo-area d-flex justify-content-end">
  		<img src="img/svg/LOGO GR AIDER.svg" alt="">
  	</div>
- </section>
+ </section> -->
  <!-- ****** Welcome Area End ****** -->
