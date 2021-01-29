@@ -80,7 +80,7 @@
  <!-- ****** Menu Area End ****** -->
  <!-- ****** Welcome Area Start ****** -->
 
- <div id="jumboCarousel" class="carousel slide carousel-fade" data-ride="carousel">
+ <div id="jumboCarousel" class="carousel slide carousel-fade" data-ride="carousel" data-interval="3000">
  	<div class="carousel-inner">
  		<div class="carousel-item active">
  			<section class="fplus-hero-area" style="background-image: url(img/grupo-aider/galeria/galeria-1.jpg); background-position:center bottom;" id="home">
@@ -134,6 +134,7 @@
  		<span class="sr-only">Next</span>
  	</a>
  </div>
+
 
  <!-- <section class="fplus-hero-area" style="background-image: url(img/grupo-aider/galeria/galeria-1.jpg); background-position:center bottom;" id="home">
  	<div class="hero-container">
