@@ -6,7 +6,7 @@
 
  <!-- ****** Header Area Start ****** -->
  <header class="header_area">
- 	<div class="container">
+ 	<div class="container-fluid px-0">
  		<div class="row">
  			<div class="col-12 d-flex">
  				<div class="logo_area">
@@ -134,6 +134,31 @@
  		<span class="sr-only">Next</span>
  	</a>
  </div>
+ <script>
+ 	var prevScrollpos = window.pageYOffset;
+ 	window.onscroll = function() {
+ 		var currentScrollPos = window.pageYOffset;
+ 		if (window.innerWidth >= 768) {
+ 			if (currentScrollPos < window.innerHeight) {
+ 				document.querySelector(".logo_area>a").style.transform = "translateX(0)";
+ 				document.querySelector(".menu-open-close").style.transform = "translateX(0)";
+ 			} else {
+ 				document.querySelector(".logo_area>a").style.transform = "translateX(-260px)";
+ 				document.querySelector(".menu-open-close").style.transform = "translateX(-260px)";
+ 			}
+ 			prevScrollpos = currentScrollPos;
+ 		} else {
+ 			if (currentScrollPos < window.innerHeight) {
+ 				document.querySelector(".logo_area>a").style.transform = "translateX(0)";
+ 				document.querySelector(".menu-open-close").style.transform = "translateX(0)";
+ 			} else {
+ 				document.querySelector(".logo_area>a").style.transform = "translateX(-60px)";
+ 				document.querySelector(".menu-open-close").style.transform = "translateX(-60px)";
+ 			}
+ 			prevScrollpos = currentScrollPos;
+ 		}
+ 	}
+ </script>
 
 
  <!-- <section class="fplus-hero-area" style="background-image: url(img/grupo-aider/galeria/galeria-1.jpg); background-position:center bottom;" id="home">
