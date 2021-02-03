@@ -704,6 +704,8 @@ li {
 .fplus-portfolio {
     margin-left: -15px;
     margin-right: -15px;  
+    
+    background-color: #efefef !important;
 }
 
 .fplus-portfolio .single_gallery_item {
