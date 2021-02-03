@@ -32,10 +32,10 @@
 
     <!-- ****** Header Area Start ****** -->
     <header class="header_area">
-        <div class="container">
+        <div class="container-fluid">
             <div class="row">
-                <div class="col-12 d-flex">
-                    <div class="logo_area">
+                <div class="col-12 d-flex px-0">
+                    <div class="logo_area" id="logo">
                         <a class="d-flex align-items-center justify-content-center" href="/"><img src="img/INDASA-logo.png" alt="logo"></a>
                     </div>
                     <div class="menu-open-close d-flex align-items-center justify-content-center">
@@ -596,7 +596,31 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
         </div>
     </footer>
     <!-- ****** Footer Area End ****** -->
-
+    <script>
+        var prevScrollpos = window.pageYOffset;
+        window.onscroll = function() {
+            var currentScrollPos = window.pageYOffset;
+            if(window.innerWidth >= 768){
+                if (currentScrollPos < window.innerHeight) {
+                    document.querySelector(".logo_area>a").style.transform = "translateX(0)";
+                    document.querySelector(".menu-open-close").style.transform = "translateX(0)";
+                } else {
+                    document.querySelector(".logo_area>a").style.transform = "translateX(-260px)";
+                    document.querySelector(".menu-open-close").style.transform = "translateX(-260px)";
+                }
+                prevScrollpos = currentScrollPos;
+            }else{
+                if (currentScrollPos < window.innerHeight) {
+                    document.querySelector(".logo_area>a").style.transform = "translateX(0)";
+                    document.querySelector(".menu-open-close").style.transform = "translateX(0)";
+                } else {
+                    document.querySelector(".logo_area>a").style.transform = "translateX(-60px)";
+                    document.querySelector(".menu-open-close").style.transform = "translateX(-60px)";
+                }
+                prevScrollpos = currentScrollPos;
+            }
+        }
+    </script>
     <!-- Jquery-2.2.4 js -->
     <script src="js/jquery/jquery.min.js"></script>
     <!-- Popper js -->
