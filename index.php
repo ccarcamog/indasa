@@ -200,11 +200,22 @@
                 <!-- Single gallery Item Start -->
                 <div class="col-12 col-sm-6 col-md-3 single_gallery_item branding wow fadeInUp" data-wow-delay="0.2s">
                     <img src="img/New-Breed.png" alt="">
-                    <div class="gallery-hover-overlay d-flex justify-content-between">
-                        <div class="port-more-view">
-                        </div>
+                    <div class="gallery-hover-overlay d-flex justify-content-center">
                         <div class="port-hover-text">
                             <h3>New Breed</h3>
+                        </div>
+                        <div class="port-more-view">
+                            Texto descriptivo minimo de 10 palabras
+                        </div>
+                        <a href="/component-show.php" style="color:orange"> Ver mas...</a>
+                        <div class="d-flex justify-content-end flex-row mt-3">
+
+                            <a href="" class="mx-2">
+                                <img src="/img/svg/facebookLogo.svg" style="width:30px; height:auto" alt="Instagram logo">
+                            </a>
+                            <a href="" class="mx-2">
+                                <img src="/img/svg/instagramLogo.svg" style="width:30px; height:auto" alt="Instagram logo">
+                            </a>
                         </div>
                     </div>
                 </div>
@@ -212,11 +223,22 @@
                 <a href="/component-show.php">
                     <div class="col-12 col-sm-6 col-md-3 single_gallery_item branding wow fadeInUp" data-wow-delay="0.4s">
                         <img src="img/Grupo-AIDER-Logo.png" alt="">
-                        <div class="gallery-hover-overlay d-flex justify-content-between">
-                            <div class="port-more-view">
-                            </div>
+                        <div class="gallery-hover-overlay d-flex justify-content-center">
                             <div class="port-hover-text">
                                 <h3>Grupo AIDER</h3>
+                            </div>
+                            <div class="port-more-view text-reset" style="color:black !important; font-weight:400">
+                                Texto descriptivo minimo de 10 palabras
+                            </div>
+                            <a href="/component-show.php" style="color:orange"> Ver mas...</a>
+                            <div class="d-flex justify-content-end flex-row mt-3">
+
+                                <a href="" class="mx-2">
+                                    <img src="/img/svg/facebookLogo.svg" style="width:30px; height:auto" alt="Instagram logo">
+                                </a>
+                                <a href="" class="mx-2">
+                                    <img src="/img/svg/instagramLogo.svg" style="width:30px; height:auto" alt="Instagram logo">
+                                </a>
                             </div>
                         </div>
                     </div>
@@ -224,22 +246,46 @@
                 <!-- Single gallery Item Start -->
                 <div class="col-12 col-sm-6 col-md-3 single_gallery_item design wow fadeInUp" data-wow-delay="0.6s">
                     <img src="img/seman_logo.jpeg" alt="">
-                    <div class="gallery-hover-overlay d-flex justify-content-between">
-                        <div class="port-more-view">
-                        </div>
+                    <div class="gallery-hover-overlay d-flex justify-content-center">
+
                         <div class="port-hover-text">
                             <h3>SERMAN</h3>
+                        </div>
+                        <div class="port-more-view text-reset" style="color:black !important; font-weight:400">
+                            Texto descriptivo minimo de 10 palabras
+                        </div>
+                        <a href="/component-show.php" style="color:orange"> Ver mas...</a>
+                        <div class="d-flex justify-content-end flex-row mt-3">
+
+                            <a href="" class="mx-2">
+                                <img src="/img/svg/facebookLogo.svg" style="width:30px; height:auto" alt="Instagram logo">
+                            </a>
+                            <a href="" class="mx-2">
+                                <img src="/img/svg/instagramLogo.svg" style="width:30px; height:auto" alt="Instagram logo">
+                            </a>
                         </div>
                     </div>
                 </div>
                 <!-- Single gallery Item Start -->
                 <div class="col-12 col-sm-6 col-md-3 single_gallery_item graphic wow fadeInUp" data-wow-delay="0.8s">
                     <img src="img/wa.jpg" alt="">
-                    <div class="gallery-hover-overlay d-flex justify-content-between">
-                        <div class="port-more-view">
-                        </div>
+                    <div class="gallery-hover-overlay d-flex justify-content-center">
+
                         <div class="port-hover-text">
                             <h3>W Asociados</h3>
+                        </div>
+                        <div class="port-more-view text-reset" style="color:black !important; font-weight:400">
+                            Texto descriptivo minimo de 10 palabras
+                        </div>
+                        <a href="/component-show.php" style="color:orange"> Ver mas...</a>
+                        <div class="d-flex justify-content-end flex-row mt-3">
+
+                            <a href="" class="mx-2">
+                                <img src="/img/svg/facebookLogo.svg" style="width:30px; height:auto" alt="Instagram logo">
+                            </a>
+                            <a href="" class="mx-2">
+                                <img src="/img/svg/instagramLogo.svg" style="width:30px; height:auto" alt="Instagram logo">
+                            </a>
                         </div>
                     </div>
                 </div>
@@ -600,7 +646,7 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
         var prevScrollpos = window.pageYOffset;
         window.onscroll = function() {
             var currentScrollPos = window.pageYOffset;
-            if(window.innerWidth >= 768){
+            if (window.innerWidth >= 768) {
                 if (currentScrollPos < window.innerHeight) {
                     document.querySelector(".logo_area>a").style.transform = "translateX(0)";
                     document.querySelector(".menu-open-close").style.transform = "translateX(0)";
@@ -609,7 +655,7 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
                     document.querySelector(".menu-open-close").style.transform = "translateX(-260px)";
                 }
                 prevScrollpos = currentScrollPos;
-            }else{
+            } else {
                 if (currentScrollPos < window.innerHeight) {
                     document.querySelector(".logo_area>a").style.transform = "translateX(0)";
                     document.querySelector(".menu-open-close").style.transform = "translateX(0)";
