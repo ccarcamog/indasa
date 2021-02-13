@@ -100,13 +100,48 @@
     <!-- ****** Menu Area End ****** -->
 
     <!-- ****** Welcome Area Start ****** -->
-    <section class="fplus-hero-area" style="background-image: url(img/bg-img/hero-1.jpg);" id="home">
-        <div class="hero-content-area d-flex justify-content-end">
-            <div class="hero-text">
-                <h2>Indasa, tu hub de servicios</h2>
+
+    <div id="jumboCarousel" class="carousel slide carousel-fade" data-pause="false" data-ride="carousel" data-interval="3000">
+        <div class="carousel-inner">
+            <div class="carousel-item active">
+                <section class="fplus-hero-area" style="background-image: url(img/bg-img/hero-1.jpg);" id="home">
+                    <div class="hero-content-area d-flex justify-content-end">
+                        <div class="hero-text">
+                            <h2>Indasa, tu hub de servicios</h2>
+                        </div>
+                    </div>
+                </section>
+            </div>
+            <div class="carousel-item">
+                <section class="fplus-hero-area" style="background-image: url(/img/bg-img/hero-2.jpg);" id="home">
+                    <div class="hero-content-area d-flex justify-content-end">
+                        <div class="hero-text">
+                            <h2>Indasa, tu hub de servicios</h2>
+                        </div>
+                    </div>
+                </section>
+            </div>
+            <div class="carousel-item">
+                <section class="fplus-hero-area" style="background-image: url(/img/bg-img/hero-3.jpg);" id="home">
+                    <div class="hero-content-area d-flex justify-content-end">
+                        <div class="hero-text">
+                            <h2>Indasa, tu hub de servicios</h2>
+                        </div>
+                    </div>
+                </section>
             </div>
         </div>
-    </section>
+        <a class="carousel-control-prev" href="#jumboCarousel" role="button" data-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="sr-only">Previous</span>
+        </a>
+        <a class="carousel-control-next" href="#jumboCarousel" role="button" data-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="sr-only">Next</span>
+        </a>
+    </div>
+
+
     <!-- ****** Welcome Area End ****** -->
 
     <!-- ****** About Us Area Start ****** -->
