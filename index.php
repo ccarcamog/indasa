@@ -280,11 +280,11 @@
                 </a>
                 <!-- Single gallery Item Start -->
                 <div class="col-12 col-sm-6 col-md-3 single_gallery_item design wow fadeInUp" data-wow-delay="0.6s">
-                    <img src="img/seman_logo.jpeg" alt="">
+                    <img src="img/ETIMARCA.png" alt="">
                     <div class="gallery-hover-overlay d-flex justify-content-center">
 
                         <div class="port-hover-text">
-                            <h3>SERMAN</h3>
+                            <h3>Etimarca</h3>
                         </div>
                         <div class="port-more-view text-reset" style="color:black !important; font-weight:400">
                             Texto descriptivo minimo de 10 palabras
@@ -303,11 +303,11 @@
                 </div>
                 <!-- Single gallery Item Start -->
                 <div class="col-12 col-sm-6 col-md-3 single_gallery_item graphic wow fadeInUp" data-wow-delay="0.8s">
-                    <img src="img/wa.jpg" alt="">
+                    <img src="img/CrediAmigo.png" alt="">
                     <div class="gallery-hover-overlay d-flex justify-content-center">
 
                         <div class="port-hover-text">
-                            <h3>W Asociados</h3>
+                            <h3>Credi Amigo</h3>
                         </div>
                         <div class="port-more-view text-reset" style="color:black !important; font-weight:400">
                             Texto descriptivo minimo de 10 palabras
