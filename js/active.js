@@ -145,7 +145,8 @@ var thumbs = jQuery('#thumbnails').slippry({
     }
   });
   
-  jQuery('.thumbs a').click(function () {
-    thumbs.goToSlide($(this).data('slide'));
+jQuery('.thumblink').click(function () {
+    console.log($(this).data('goto'))
+    thumbs.goToSlide($(this).data('goto'));
     return false;
   });

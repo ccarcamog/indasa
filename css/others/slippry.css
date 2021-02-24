@@ -336,3 +336,9 @@
 .thumbs{
 	padding: 0;
 }
+
+.thumbnail-carousel-arrow-prev{width:20px !important;left:-20px !important;}
+.thumbnail-carousel-arrow-next{width:20px !important;right:-20px !important;}
+.svg-inverted{
+  filter:invert(100%);
+}

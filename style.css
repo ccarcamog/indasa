@@ -880,8 +880,7 @@ li {
 }
 
 .single-clients-logo img{
-    filter: grayscale(100%)  opacity(60%);   
-    
+    filter: grayscale(100%)  opacity(60%);       
 }
 /* Blog Area CSS */
 
