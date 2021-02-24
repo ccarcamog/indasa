@@ -282,7 +282,7 @@
 
 /* Thumbnails */
 #thumbnails img{
-  height: 90vh;
+  height: 70vh;
   object-fit: cover;
 }
 .thumb-box {

@@ -38,7 +38,7 @@
 						?>
 							<div class="carousel-item <?= ($cont == 0) ? "active" : "" ?>">
 								<?php for ($i = 0; $i < 4 && $cont < $total; $i++) { ?>
-									<li class="thumblink" data-goto="<?= ($i + 1) ?>"><a href="#<?= ($i + 1) ?>"><img src="/img/grupo-aider/galeria/galeria-<?= $i + 1 ?>.jpg" alt="This is caption 1 <a href='#link'>Even with links!</a>"></a></li>
+									<li class="thumblink" data-goto="<?= ($cont + 1) ?>"><a href="#<?= ($cont + 1) ?>"><img src="/img/grupo-aider/galeria/galeria-<?= $cont + 1 ?>.jpg" alt="This is caption 1 <a href='#link'>Even with links!</a>"></a></li>
 								<?php
 									$cont++;
 								} ?>
