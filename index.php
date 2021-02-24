@@ -107,7 +107,7 @@
                 <section class="fplus-hero-area" style="background-image: url(img/bg-img/hero-1.jpg);" id="home">
                     <div class="hero-content-area d-flex justify-content-end">
                         <div class="hero-text">
-                            <h2>Indasa, tu hub de servicios</h2>
+                            <h2>Indasa, el futuro está aquí</h2>
                         </div>
                     </div>
                 </section>
@@ -116,7 +116,7 @@
                 <section class="fplus-hero-area" style="background-image: url(/img/bg-img/hero-2.jpg);" id="home">
                     <div class="hero-content-area d-flex justify-content-end">
                         <div class="hero-text">
-                            <h2>Indasa, tu hub de servicios</h2>
+                            <h2>Indasa, el futuro está aquí</h2>
                         </div>
                     </div>
                 </section>
@@ -125,7 +125,7 @@
                 <section class="fplus-hero-area" style="background-image: url(/img/bg-img/hero-3.jpg);" id="home">
                     <div class="hero-content-area d-flex justify-content-end">
                         <div class="hero-text">
-                            <h2>Indasa, tu hub de servicios</h2>
+                            <h2>Indasa, el futuro está aquí</h2>
                         </div>
                     </div>
                 </section>
@@ -167,7 +167,7 @@
                     <div class="col-12 col-md-6">
                         <div class="about-us-text wow fadeIn" data-wow-delay="1.5s">
                             <h4>Somos Indasa</h4>
-                            <p>Favor redactar información de Acerca de y una breve historia. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce enim nulla, mollis eu metus in, sagittis fringilla tortor. Phasellus eget purus id felis dignissim convallis. Suspendisse et augue dui. Morbi gravida sed justo vel venenatis. Ut tempor pretium maximus. Donec libero diam, faucibus vitae lectus nec, accumsan gravida dui. Nam interdum mi eget lacus aliquet, sit amet ultricies.</p>
+                            <p>En Indasa desarrollamos proyectos innovadores y sustentables para el bienestar de todos los salvadoreños. También distribuimos marcas de prestigio por todo el país.</p>
                         </div>
                     </div>
                 </div>
@@ -181,7 +181,7 @@
                     <div class="fplus-single-feature wow fadeInUp" data-wow-delay="1s">
                         <div class="feature-title d-flex align-items-center">
                             <img src="img/icons/wallet.svg" alt="">
-                            <h5>Calidad garantizada</h5>
+                            <h5>Calidad y excelencia</h5>
                         </div>
                         <p>Todos nuestros servicios cumplen con normas y estándares de calidad que garitizan la satisfacción de nuestro clientes</p>
                     </div>
@@ -201,7 +201,7 @@
                     <div class="fplus-single-feature wow fadeInUp" data-wow-delay="2s">
                         <div class="feature-title d-flex align-items-center">
                             <img src="img/icons/switching-user.svg" alt="">
-                            <h5>Soporte contínuo</h5>
+                            <h5>Atención al cliente garantizada</h5>
                         </div>
                         <p>Nuestro equipo está preparado para atender las necesidades más puntuales. Nuestro servicio fideliza a nuestro clientes</p>
                     </div>
@@ -240,7 +240,7 @@
                             <h3>New Breed</h3>
                         </div>
                         <div class="port-more-view">
-                            Texto descriptivo minimo de 10 palabras
+                            Publicidad digital al próximo nivel
                         </div>
                         <a href="/component-show.php" style="color:orange"> Ver mas...</a>
                         <div class="d-flex justify-content-end flex-row mt-3">
@@ -263,7 +263,7 @@
                                 <h3>Grupo AIDER</h3>
                             </div>
                             <div class="port-more-view text-reset" style="color:black !important; font-weight:400">
-                                Texto descriptivo minimo de 10 palabras
+                                Energías renovables que transforman
                             </div>
                             <a href="/component-show.php" style="color:orange"> Ver mas...</a>
                             <div class="d-flex justify-content-end flex-row mt-3">
@@ -287,7 +287,7 @@
                             <h3>Etimarca</h3>
                         </div>
                         <div class="port-more-view text-reset" style="color:black !important; font-weight:400">
-                            Texto descriptivo minimo de 10 palabras
+                            Etiquetas y marcas de corte mundial
                         </div>
                         <a href="/component-show.php" style="color:orange"> Ver mas...</a>
                         <div class="d-flex justify-content-end flex-row mt-3">
@@ -310,7 +310,7 @@
                             <h3>Credi Amigo</h3>
                         </div>
                         <div class="port-more-view text-reset" style="color:black !important; font-weight:400">
-                            Texto descriptivo minimo de 10 palabras
+                            La mano derecha de tu bolsillo
                         </div>
                         <a href="/component-show.php" style="color:orange"> Ver mas...</a>
                         <div class="d-flex justify-content-end flex-row mt-3">
