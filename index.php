@@ -412,53 +412,15 @@
                 <div class="col-12">
                     <div class="fplus-clients-logo d-flex">
                         <!-- Single clients -->
+                        <?php 
+                            for($i = 0; $i < 12; $i++){
+                        ?>
                         <div class="single-clients-logo">
-                            <a href="#"><img src="img/clients-img/1.png" alt=""></a>
+                            <a href="#"><img src="img/clients-img/<?= ($i+1) ?>.png" alt=""></a>
                         </div>
-                        <!-- Single clients -->
-                        <div class="single-clients-logo">
-                            <a href="#"><img src="img/clients-img/2.png" alt=""></a>
-                        </div>
-                        <!-- Single clients -->
-                        <div class="single-clients-logo">
-                            <a href="#"><img src="img/clients-img/3.png" alt=""></a>
-                        </div>
-                        <!-- Single clients -->
-                        <div class="single-clients-logo">
-                            <a href="#"><img src="img/clients-img/4.png" alt=""></a>
-                        </div>
-                        <!-- Single clients -->
-                        <div class="single-clients-logo">
-                            <a href="#"><img src="img/clients-img/5.png" alt=""></a>
-                        </div>
-                        <!-- Single clients -->
-                        <div class="single-clients-logo">
-                            <a href="#"><img src="img/clients-img/2.png" alt=""></a>
-                        </div>
-                        <!-- Single clients -->
-                        <div class="single-clients-logo">
-                            <a href="#"><img src="img/clients-img/4.png" alt=""></a>
-                        </div>
-                        <!-- Single clients -->
-                        <div class="single-clients-logo">
-                            <a href="#"><img src="img/clients-img/5.png" alt=""></a>
-                        </div>
-                        <!-- Single clients -->
-                        <div class="single-clients-logo">
-                            <a href="#"><img src="img/clients-img/2.png" alt=""></a>
-                        </div>
-                        <!-- Single clients -->
-                        <div class="single-clients-logo">
-                            <a href="#"><img src="img/clients-img/1.png" alt=""></a>
-                        </div>
-                        <!-- Single clients -->
-                        <div class="single-clients-logo">
-                            <a href="#"><img src="img/clients-img/4.png" alt=""></a>
-                        </div>
-                        <!-- Single clients -->
-                        <div class="single-clients-logo">
-                            <a href="#"><img src="img/clients-img/3.png" alt=""></a>
-                        </div>
+                        <?php 
+                            }
+                        ?>
                     </div>
                 </div>
             </div>
