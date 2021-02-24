@@ -416,7 +416,7 @@
                             for($i = 0; $i < 12; $i++){
                         ?>
                         <div class="single-clients-logo">
-                            <a href="#"><img src="img/clients-img/<?= ($i+1) ?>.png" alt=""></a>
+                            <img src="img/clients-img/<?= ($i+1) ?>.png" alt="">
                         </div>
                         <?php 
                             }

@@ -876,8 +876,13 @@ li {
     -ms-flex-pack: center;
     justify-content: center;
     padding: 5px;
+
 }
 
+.single-clients-logo img{
+    filter: grayscale(100%)  opacity(60%);   
+    
+}
 /* Blog Area CSS */
 
 .fplus-single-blog-area {
