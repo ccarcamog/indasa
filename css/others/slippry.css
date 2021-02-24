@@ -282,13 +282,12 @@
 
 /* Thumbnails */
 #thumbnails img{
-  max-height: 90vh;
-  object-fit: contain;
+  height: 90vh;
+  object-fit: cover;
 }
 .thumb-box {
 	padding: 1.4em 0 1em;
-	margin-left: -1%;
-	width: 102%;
+	width: 100%;
 }
 
 .thumb-box .thumbs:before,

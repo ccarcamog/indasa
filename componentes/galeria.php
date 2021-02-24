@@ -22,6 +22,9 @@
 			<?php } ?>
 		</ul>
 
+	</div>
+	<div class="container p-0">
+
 		<div class="thumb-box wow fadeInUp ">
 			<?php
 			$total = 6;
