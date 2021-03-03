@@ -732,6 +732,13 @@ li {
     /* border: black solid 1px; */
     object-fit: contain;
 }
+.fplus-portfolio .client_gallery{
+    padding: 50px;
+}
+/* .fplus-portfolio .client_gallery img{
+    
+    border: black solid 1px;
+} */
 
 .gallery-hover-overlay {
     -webkit-box-orient: vertical;
