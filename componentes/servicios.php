@@ -19,8 +19,9 @@
                         <img src="img/grupo-aider/129733675_2842507236026675_1859087375636870366_o.jpg" alt="" style="width:100%; height:200px; object-fit: cover">
                         <!-- Blog Content  -->
                         <div class="fplus-blog-content">
-							<h5>Instalación mecánica y eléctrica</h5>
-							<p class="text-muted">Descripción 1</p>
+							<h5>Diseño y Construcción</h5>
+							<p class="text-muted">Evaluación, diseño y puesta en marcha de proyectos de energías renovables bajo el esquema de 
+								llave en mano. </p>
                             
                         </div>
                     </div>
@@ -32,8 +33,8 @@
                         <img src="img/grupo-aider/pexels-tiger-lily-4484155.jpg" alt="" style="width:100%; height:200px; object-fit: cover">
                         <!-- Blog Content  -->
                         <div class="fplus-blog-content">
-						<h5>Suministro de equipos y materiales</h5>
-						<p class="text-muted">Descripción 2</p>
+						<h5>Equipo de primera calidad</h5>
+						<p class="text-muted">Suministro de equipos y materiales para proyectos de energías renovables. </p>
                         </div>
                     </div>
                 </div>
@@ -44,8 +45,8 @@
                         <img src="img/grupo-aider/pexels-pixabay-159397.jpg" alt="" style="width:100%; height:200px; object-fit: cover">
                         <!-- Blog Content  -->
                         <div class="fplus-blog-content"> 
-							<h5>Energía amigable con el medio ambiente</h5>
-							<p class="text-muted">Descripción 3</p>
+							<h5>Operación y Mantenimiento</h5>
+							<p class="text-muted">Instalación mecánica y eléctrica de proyectos de energías renovables.</p>
                         </div>
                     </div>
 				</div>
