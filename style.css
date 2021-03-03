@@ -721,7 +721,7 @@ li {
     position: relative;
     z-index: 1;
     overflow: hidden;
-    padding: 80px;
+    padding: 0 50px;
 }
 
 .fplus-portfolio .single_gallery_item img {
@@ -729,7 +729,7 @@ li {
     transition-duration: 500ms;
     width: 100%;
     height: 250px;
-
+    /* border: black solid 1px; */
     object-fit: contain;
 }
 
