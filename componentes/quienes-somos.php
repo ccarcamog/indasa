@@ -22,7 +22,8 @@
 				<div class="col-12 col-md-6">
 					<div class="about-us-text wow fadeIn" data-wow-delay="1.5s">
 						<!-- <h4>Somos Grupo AIDER</h4> -->
-						<p>Favor redactar información de Acerca de y una breve historia. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce enim nulla, mollis eu metus in, sagittis fringilla tortor. Phasellus eget purus id felis dignissim convallis. Suspendisse et augue dui. Morbi gravida sed justo vel venenatis. Ut tempor pretium maximus. Donec libero diam, faucibus vitae lectus nec, accumsan gravida dui. Nam interdum mi eget lacus aliquet, sit amet ultricies.</p>
+						<p>Grupo AIDER se caracteriza por su experiencia de más de 10 años en Consultoría, Diseño y Desarrollo de Proyectos de Energías Renovables. En todo el territorio centroamericano, somos el participante del mercado con la tecnología más actualizada, al servicio del proyecto solar con el menor precio de adquisición.
+</p>
 					</div>
 				</div>
 			</div>
@@ -38,14 +39,14 @@
 						<h4 class="text-center">Misión</h4>
 						<div class="section-heading-line"></div>
 
-						<p>Favor redactar información de Acerca de y una breve historia. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce enim nulla, mollis eu metus in, sagittis fringilla tortor. Phasellus eget purus id felis dignissim convallis. Suspendisse et augue dui. Morbi gravida sed justo vel venenatis. Ut tempor pretium maximus. Donec libero diam, faucibus vitae lectus nec, accumsan gravida dui. Nam interdum mi eget lacus aliquet, sit amet ultricies.</p>
+						<p>Producir energía limpia para nuestro planeta tierra y a la vez generar ahorros para nuestros clientes.</p>
 					</div>
 				</div>
 				<div class="col-12 col-md-6 mt-3">
 					<div class="about-us-text wow fadeIn" data-wow-delay="1.5s">
 					<h4 class="text-center">Visión</h4>
 						<div class="section-heading-line"></div>
-						<p>Favor redactar información de Acerca de y una breve historia. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce enim nulla, mollis eu metus in, sagittis fringilla tortor. Phasellus eget purus id felis dignissim convallis. Suspendisse et augue dui. Morbi gravida sed justo vel venenatis. Ut tempor pretium maximus. Donec libero diam, faucibus vitae lectus nec, accumsan gravida dui. Nam interdum mi eget lacus aliquet, sit amet ultricies.</p>
+						<p>Ser el líder regional en innovación de tecnología aplicada para la generación de energía limpia.</p>
 					</div>
 				</div>
 			</div>
@@ -64,9 +65,9 @@
 							<div class="fplus-single-feature">
 								<div class="feature-title d-flex align-items-center">
 									<img src="img/icons/wallet.svg" alt="">
-									<h5>Calidad garantizada</h5>
+									<h5>Industrial</h5>
 								</div>
-								<p>Mauris luctus lacus at consectetur commodo. Donec felis odio, hendrerit vitae laoreet vel, commodo ac eros. Morbi nec ornare tortor.</p>
+								<p>Energías renovables en alta escala. Retorno de inversión rápido y eficiente.</p>
 							</div>
 						</div>
 						<!-- Single Feature -->
@@ -74,9 +75,9 @@
 							<div class="fplus-single-feature">
 								<div class="feature-title d-flex align-items-center">
 									<img src="img/icons/credit-card.svg" alt="">
-									<h5>Precios razonables</h5>
+									<h5>Comercial</h5>
 								</div>
-								<p>Nullam imperdiet lacinia mollis. Nunc vitae odio egestas, volutpat nisi eu, eleifend nisi. Suspendisse lectus nibh, vestibulum at ante at, blandit convallis leo. </p>
+								<p>Llevamos energías limpias a tu negocio para un mudo mejor</p>
 							</div>
 						</div>
 						<!-- Single Feature -->
@@ -84,9 +85,9 @@
 							<div class="fplus-single-feature">
 								<div class="feature-title d-flex align-items-center">
 									<img src="img/icons/switching-user.svg" alt="">
-									<h5>Soporte contínuo</h5>
+									<h5>Residencial</h5>
 								</div>
-								<p>Maecenas elementum massa nec sem condimentum, sit amet euismod nunc pulvinar. Nam volutpat, dui quis dictum euismod, nibh diam lobortis lacus, sed tristique libero quam ac arcu. </p>
+								<p>Energía solar para tu hogar. Ahorra y cuida el medio ambiente</p>
 							</div>
 						</div>
 					</div>
