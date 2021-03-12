@@ -45,7 +45,6 @@
     margin: 0;
     padding: 0;
 }
-
 body {
     font-family: 'Montserrat', sans-serif;
     position: relative;
@@ -335,7 +334,13 @@ li {
     position: relative;
     z-index: 2;
 }
+@media(max-width:789px){
+    .logo_area>a {
+        width: 100px;
+        height: 100px;
+    }
 
+}
 .logo_area>a:before {
     width: 9000px;
     height: 100px;
@@ -761,6 +766,8 @@ li {
 .logo_area > a{
     padding: 10px 10px;
 }
+
+
 
 .gallery-hover-overlay .port-more-view>a {
     font-size: 26px;
@@ -1270,4 +1277,10 @@ li {
 #content-mantenimiento>img {
     height: 30vh;
     object-fit: scale-down;
+}
+
+.small-logo>img{
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
 }

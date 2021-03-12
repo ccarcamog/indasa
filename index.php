@@ -19,7 +19,7 @@
     <link href="style.css" rel="stylesheet">
 
     <!-- Responsive CSS -->
-    <link href="css/responsive/responsive.css" rel="stylesheet">
+    <!-- <link href="css/responsive/responsive.css" rel="stylesheet"> -->
 
 </head>
 
@@ -32,11 +32,12 @@
 
     <!-- ****** Header Area Start ****** -->
     <header class="header_area">
-        <div class="container-fluid">
+        <div class="container-fluid px-0">
             <div class="row">
-                <div class="col-12 d-flex px-0">
-                    <div class="logo_area" id="logo">
-                        <a class="d-flex align-items-center justify-content-center" href="/"><img src="img/INDASA-logo.png" alt="logo"></a>
+                <div class="col-12 d-flex">
+                    <div class="logo_area">
+                        <a class="small-logo d-flex d-md-none align-items-center justify-content-center" href="/"><img src="img/INDASA-06.png" alt="logo"></a>
+                        <a class="big-logo d-md-flex d-none align-items-center justify-content-center" href="/"><img src="img/INDASA-logo.png" alt="logo"></a>
                     </div>
                     <div class="menu-open-close d-flex align-items-center justify-content-center">
                         <div id="nav-icon">
@@ -412,14 +413,14 @@
                 <div class="col-12">
                     <div class="fplus-clients-logo d-flex">
                         <!-- Single clients -->
-                        <?php 
-                            for($i = 0; $i < 12; $i++){
+                        <?php
+                        for ($i = 0; $i < 12; $i++) {
                         ?>
-                        <div class="single-clients-logo">
-                            <img src="img/clients-img/<?= ($i+1) ?>.png" alt="">
-                        </div>
-                        <?php 
-                            }
+                            <div class="single-clients-logo">
+                                <img src="img/clients-img/<?= ($i + 1) ?>.png" alt="">
+                            </div>
+                        <?php
+                        }
                         ?>
                     </div>
                 </div>
@@ -645,20 +646,20 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
             var currentScrollPos = window.pageYOffset;
             if (window.innerWidth >= 768) {
                 if (currentScrollPos < window.innerHeight) {
-                    document.querySelector(".logo_area>a").style.transform = "translateX(0)";
+                    document.querySelector(".logo_area>.big-logo").style.transform = "translateX(0)";
                     document.querySelector(".menu-open-close").style.transform = "translateX(0)";
                 } else {
-                    document.querySelector(".logo_area>a").style.transform = "translateX(-260px)";
+                    document.querySelector(".logo_area>.big-logo").style.transform = "translateX(-260px)";
                     document.querySelector(".menu-open-close").style.transform = "translateX(-260px)";
                 }
                 prevScrollpos = currentScrollPos;
             } else {
                 if (currentScrollPos < window.innerHeight) {
-                    document.querySelector(".logo_area>a").style.transform = "translateX(0)";
+                    document.querySelector(".logo_area>.small-logo").style.transform = "translateX(0)";
                     document.querySelector(".menu-open-close").style.transform = "translateX(0)";
                 } else {
-                    document.querySelector(".logo_area>a").style.transform = "translateX(-60px)";
-                    document.querySelector(".menu-open-close").style.transform = "translateX(-60px)";
+                    document.querySelector(".logo_area>.small-logo").style.transform = "translateX(-100px)";
+                    document.querySelector(".menu-open-close").style.transform = "translateX(-100px)";
                 }
                 prevScrollpos = currentScrollPos;
             }

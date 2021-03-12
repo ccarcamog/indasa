@@ -117,10 +117,10 @@
     .navbar-nav .dropdown-menu {
         position: absolute;
     }
-    .logo_area > a {
+    /* .logo_area > a {
         width: 60px;
         height: 60px;
-    }
+    } */
     .logo_area > a:before {
         height: 60px;
         right: 59px;
