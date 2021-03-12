@@ -18,6 +18,7 @@
 		include "componentes/servicios.php";
 		include "componentes/marcas.php";
 		include "componentes/galeria.php";
+		// include "componentes/carousel-test.php";
 	?>
 	
 	<?php include "componentes/contacto.php" ?>
