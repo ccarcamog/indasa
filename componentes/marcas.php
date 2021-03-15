@@ -19,13 +19,6 @@
 				<!-- Single gallery Item Start -->
 				<div class="col-12 col-sm-6 col-md-4 single_gallery_item branding wow fadeInUp" data-wow-delay="0.2s">
 					<img src="img/grupo-aider/logo-marca-<?= $i + 1 ?>.svg" alt="">
-					<!-- <div class="gallery-hover-overlay d-flex justify-content-between">
-					<div class="port-more-view">
-					</div>
-					<div class="port-hover-text">
-						<h3>Canadian Solar</h3>
-					</div>
-				</div> -->
 				</div>
 
 			<?php

@@ -243,7 +243,7 @@
                         <div class="port-more-view">
                             Publicidad digital al próximo nivel
                         </div>
-                        <a href="/component-show.php" style="color:orange"> Ver mas...</a>
+                        <a href="/aider.php" style="color:orange"> Ver mas...</a>
                         <div class="d-flex justify-content-end flex-row mt-3">
 
                             <a href="" class="mx-2">
@@ -256,7 +256,7 @@
                     </div>
                 </div>
                 <!-- Single gallery Item Start -->
-                <a href="/component-show.php">
+                <a href="/aider.php">
                     <div class="col-12 col-sm-6 col-md-3 single_gallery_item branding wow fadeInUp" data-wow-delay="0.4s">
                         <img src="img/Grupo-AIDER-Logo.png" alt="">
                         <div class="gallery-hover-overlay d-flex justify-content-center">
@@ -266,7 +266,7 @@
                             <div class="port-more-view text-reset" style="color:black !important; font-weight:400">
                                 Energías renovables que transforman
                             </div>
-                            <a href="/component-show.php" style="color:orange"> Ver mas...</a>
+                            <a href="/aider.php" style="color:orange"> Ver mas...</a>
                             <div class="d-flex justify-content-end flex-row mt-3">
 
                                 <a href="" class="mx-2">
@@ -290,7 +290,7 @@
                         <div class="port-more-view text-reset" style="color:black !important; font-weight:400">
                             Etiquetas y marcas de corte mundial
                         </div>
-                        <a href="/component-show.php" style="color:orange"> Ver mas...</a>
+                        <a href="/aider.php" style="color:orange"> Ver mas...</a>
                         <div class="d-flex justify-content-end flex-row mt-3">
 
                             <a href="" class="mx-2">
@@ -313,7 +313,7 @@
                         <div class="port-more-view text-reset" style="color:black !important; font-weight:400">
                             La mano derecha de tu bolsillo
                         </div>
-                        <a href="/component-show.php" style="color:orange"> Ver mas...</a>
+                        <a href="/aider.php" style="color:orange"> Ver mas...</a>
                         <div class="d-flex justify-content-end flex-row mt-3">
 
                             <a href="" class="mx-2">
