@@ -98,7 +98,7 @@
             </div>
           </div>
           <div class="hero-logo-area d-flex justify-content-end">
-            <img src="img/svg/LOGO GR AIDER.svg" alt="">
+            <img src="img/svg/Logos svg crediamigo-12.svg" alt="">
           </div>
         </section>
       </div>
@@ -112,7 +112,7 @@
             </div>
           </div>
           <div class="hero-logo-area d-flex justify-content-end">
-            <img src="img/svg/LOGO GR AIDER.svg" alt="">
+            <img src="img/svg/Logos svg crediamigo-12.svg" alt="">
           </div>
         </section>
       </div>
@@ -126,7 +126,7 @@
             </div>
           </div>
           <div class="hero-logo-area d-flex justify-content-end">
-            <img src="img/svg/LOGO GR AIDER.svg" alt="">
+            <img src="img/svg/Logos svg crediamigo-12.svg" alt="">
           </div>
         </section>
       </div>

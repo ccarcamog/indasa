@@ -98,7 +98,7 @@
             </div>
           </div>
           <div class="hero-logo-area d-flex justify-content-end">
-            <img src="img/New-Breed.png" alt="">
+            <img src="img/svg/Logos svg new breed-21.svg" alt="">
           </div>
         </section>
       </div>
@@ -112,7 +112,7 @@
             </div>
           </div>
           <div class="hero-logo-area d-flex justify-content-end">
-            <img src="img/New-Breed.png" alt="">
+            <img src="img/svg/Logos svg new breed-21.svg" alt="">
           </div>
         </section>
       </div>
@@ -126,7 +126,7 @@
             </div>
           </div>
           <div class="hero-logo-area d-flex justify-content-end">
-            <img src="img/New-Breed.png" alt="">
+            <img src="img/svg/Logos svg new breed-21.svg" alt="">
           </div>
         </section>
       </div>
