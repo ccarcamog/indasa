@@ -89,7 +89,7 @@
   <div id="jumboCarousel" class="carousel slide carousel-fade" data-pause="false" data-ride="carousel" data-interval="3000">
     <div class="carousel-inner">
       <div class="carousel-item active">
-      <section class="fplus-hero-area" style="background-image: url(img/grupo-aider/galeria/galeria-6.jpg); background-position:center bottom;" id="home">
+        <section class="fplus-hero-area" style="background-image: url(img/grupo-aider/galeria/galeria-6.jpg); background-position:center bottom;" id="home">
           <div class="hero-container">
           </div>
           <div class="hero-content-area d-flex justify-content-end">
@@ -103,7 +103,7 @@
         </section>
       </div>
       <div class="carousel-item">
-      <section class="fplus-hero-area" style="background-image: url(img/grupo-aider/galeria/galeria-6.jpg); background-position:center bottom;" id="home">
+        <section class="fplus-hero-area" style="background-image: url(img/grupo-aider/galeria/galeria-6.jpg); background-position:center bottom;" id="home">
           <div class="hero-container">
           </div>
           <div class="hero-content-area d-flex justify-content-end">
@@ -146,19 +146,19 @@
       var currentScrollPos = window.pageYOffset;
       if (window.innerWidth >= 768) {
         if (currentScrollPos < window.innerHeight) {
-          document.querySelector(".logo_area>a").style.transform = "translateX(0)";
+          document.querySelector(".logo_area>a.big-logo").style.transform = "translateX(0)";
           document.querySelector(".menu-open-close").style.transform = "translateX(0)";
         } else {
-          document.querySelector(".logo_area>a").style.transform = "translateX(-260px)";
+          document.querySelector(".logo_area>a.big-logo").style.transform = "translateX(-260px)";
           document.querySelector(".menu-open-close").style.transform = "translateX(-260px)";
         }
         prevScrollpos = currentScrollPos;
       } else {
         if (currentScrollPos < window.innerHeight) {
-          document.querySelector(".logo_area>a").style.transform = "translateX(0)";
+          document.querySelector(".logo_area>a.small-logo").style.transform = "translateX(0)";
           document.querySelector(".menu-open-close").style.transform = "translateX(0)";
         } else {
-          document.querySelector(".logo_area>a").style.transform = "translateX(-100px)";
+          document.querySelector(".logo_area>a.small-logo").style.transform = "translateX(-100px)";
           document.querySelector(".menu-open-close").style.transform = "translateX(-100px)";
         }
         prevScrollpos = currentScrollPos;

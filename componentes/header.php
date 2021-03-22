@@ -10,8 +10,8 @@
  		<div class="row">
  			<div class="col-12 d-flex">
  				<div class="logo_area">
-				 <a class="small-logo d-flex d-md-none align-items-center justify-content-center" href="/"><img src="img/INDASA-06.png" alt="logo"></a>
-                        <a class="big-logo d-md-flex d-none align-items-center justify-content-center" href="/"><img src="img/INDASA-logo.png" alt="logo"></a>
+ 					<a class="big-logo d-md-flex d-none align-items-center justify-content-center" href="/"><img src="img/INDASA-logo.png" alt="logo"></a>
+ 					<a class="small-logo d-flex d-md-none align-items-center justify-content-center" href="/"><img src="img/INDASA-06.png" alt="logo"></a>
  				</div>
  				<div class="menu-open-close d-flex align-items-center justify-content-center">
  					<div id="nav-icon">
@@ -141,19 +141,19 @@
  		var currentScrollPos = window.pageYOffset;
  		if (window.innerWidth >= 768) {
  			if (currentScrollPos < window.innerHeight) {
- 				document.querySelector(".logo_area>a").style.transform = "translateX(0)";
+ 				document.querySelector(".logo_area>a.big-logo").style.transform = "translateX(0)";
  				document.querySelector(".menu-open-close").style.transform = "translateX(0)";
  			} else {
- 				document.querySelector(".logo_area>a").style.transform = "translateX(-260px)";
+ 				document.querySelector(".logo_area>a.big-logo").style.transform = "translateX(-260px)";
  				document.querySelector(".menu-open-close").style.transform = "translateX(-260px)";
  			}
  			prevScrollpos = currentScrollPos;
  		} else {
  			if (currentScrollPos < window.innerHeight) {
- 				document.querySelector(".logo_area>a").style.transform = "translateX(0)";
+ 				document.querySelector(".logo_area>a.small-logo").style.transform = "translateX(0)";
  				document.querySelector(".menu-open-close").style.transform = "translateX(0)";
  			} else {
- 				document.querySelector(".logo_area>a").style.transform = "translateX(-100px)";
+ 				document.querySelector(".logo_area>a.small-logo").style.transform = "translateX(-100px)";
  				document.querySelector(".menu-open-close").style.transform = "translateX(-100px)";
  			}
  			prevScrollpos = currentScrollPos;
